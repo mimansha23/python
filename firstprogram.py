@@ -38,9 +38,10 @@ print(type(price))
 # python is a case sensitive language
 
 #print sum of two numbers
-a=2
-b=5
-sum = a+b
+a=1000
+b=500
+sum = a-b
 print(sum)
+
 
 
