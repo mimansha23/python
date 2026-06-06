@@ -26,5 +26,21 @@ print("my age is:", age)
 print(type(name))
 print(type(age))
 print(type(price))
+#data type
+#integer any number +ve -ve 0 -0to +0 =int
+#string "name" "age" etc
+#float decimal values 
+#boolean true false
+#none a=none no valid values
+#keywords
+#and else in return as except is true assert try break false finally lambda try break nonlocal with while continue from not etc
+# they are not use as variable names
+# python is a case sensitive language
+
+#print sum of two numbers
+a=2
+b=5
+sum = a+b
+print(sum)
 
 
