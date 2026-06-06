@@ -32,3 +32,8 @@ num /= 5
 num %= 5
 num **= 5
 print("num : ", num)
+
+#Logical Operators
+"""(not , and , or)"""
+#(boolean value )
+print(not True)
