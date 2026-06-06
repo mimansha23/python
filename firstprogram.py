@@ -42,6 +42,16 @@ a=1000
 b=500
 sum = a-b
 print(sum)
-
-
-
+"""types of operators"""
+"""an operator is a symbol that performs a certain operation between operands"""
+#arithmetaics operators
+#like +,-,*,/,%(modulo),**(power operator) 
+a=3
+b=5
+sum=(a+b)
+sum=(a-b)
+sum=(a*b)
+sum=(a/b)
+sum=(a%b)
+sum=(a**b)
+print(sum)
