@@ -22,4 +22,13 @@ print(c>=d)
 print(c<d)
 print(c>d)
 
-
+"""Assingment Operators"""
+"(+= , -=, *= , /=, %=, **=)"
+num= 10
+num += 5
+num -= 5
+num *= 5
+num /= 5
+num %= 5
+num **= 5
+print("num : ", num)
