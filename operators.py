@@ -37,3 +37,4 @@ print("num : ", num)
 """(not , and , or)"""
 #(boolean value )
 print(not True)
+print(123455)
