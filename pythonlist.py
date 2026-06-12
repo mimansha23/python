@@ -1,6 +1,10 @@
 """thislist = ["apple", "banana", "cherry"]
 print(thislist)
 """
-thislist = ["apple", "banana", "cherry"]
+"""thislist = ["apple", "banana", "cherry"]
 thislist[1] = "blackcurrant"
+print(thislist)"""
+
+thislist = ["apple", "banana", "cherry"]
+thislist[1:2] = ["blackcurrant", "watermelon"]
 print(thislist)
