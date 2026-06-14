@@ -5,6 +5,9 @@ print(thislist)
 thislist[1] = "blackcurrant"
 print(thislist)"""
 
-thislist = ["apple", "banana", "cherry"]
+"""thislist = ["apple", "banana", "cherry"]
 thislist[1:2] = ["blackcurrant", "watermelon"]
-print(thislist)
+print(thislist)"""
+
+thistuple = ("apple", "banana", "cherry")
+print(thistuple[1])
