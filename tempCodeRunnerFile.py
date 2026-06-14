@@ -35,10 +35,18 @@ marks = 90"""
 marks = input("enter marks: ")"""
 #then above output is seen and when we apply int float str for there name then its print 
 
-name = input("enter name: ")
+"""name = input("enter name: ")
 age =int(input("enter age: "))
 marks = float(input("enter marks: "))
 
 print("welcome", name)
 print("age =" , age)
-print("marks =", marks)
+print("marks =", marks)"""
+
+#then the output changes to
+# enter name: mimu
+"""enter age: 19
+enter marks: 77.54
+welcome mimu
+age = 19
+marks = 77.54 """
