@@ -26,8 +26,20 @@ print("area =", side ** 2)"""
 
 #Q#  #WAP to input 2 floating point numbers & print their average.
  
-a=float(input("enter first number: "))
+"""a=float(input("enter first number: "))
 
 b=float(input("enter second number :"))
 
 print("average=", (a+b)/2);
+"""
+
+#Q4 #WAP to input 2 int numbers , a and b.
+#print true if a is greater than or eqaul to b. if not print false.
+
+
+"""code"""
+a=int(input("enter first number: "))
+b=int(input("enter second number: "))
+
+print( a >=  b )
+print( a<=b )
