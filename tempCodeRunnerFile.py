@@ -1,2 +1,2 @@
-a = "2"
-b = 4.25
+name =input("enter your name: ")
+int("welcome", name)
