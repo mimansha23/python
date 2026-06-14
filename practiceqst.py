@@ -19,7 +19,15 @@ sum= 57"""
 
 
 #Q2 #WAp to input side of a square & print its area
-
+"""
 side = float(input("enter square side: "))
 
-print("area =", side ** 2)
+print("area =", side ** 2)"""
+
+#Q#  #WAP to input 2 floating point numbers & print their average.
+ 
+a=float(input("enter first number: "))
+
+b=float(input("enter second number :"))
+
+print("average=", (a+b)/2);
