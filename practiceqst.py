@@ -36,10 +36,9 @@ print("average=", (a+b)/2);
 #Q4 #WAP to input 2 int numbers , a and b.
 #print true if a is greater than or eqaul to b. if not print false.
 
-
-"""code"""
+"""code
 a=int(input("enter first number: "))
 b=int(input("enter second number: "))
 
 print( a >=  b )
-print( a<=b )
+print( a<=b )"""
