@@ -11,7 +11,26 @@ tab , \n   ,\t"""
 #plus operators
 #adding to strings
 
-str1 ="mimansha"
+"""str1 ="mimansha"
 str2 = "pandey"
 final_str =str1+str2
-print(final_str)
+print(final_str)"""
+
+#output
+#mimanshapndey
+
+"""length of str
+
+len(str)"""
+
+"""we also use final_str = str1 + " " + str2"""
+
+
+#indexing
+"""characters =index= position"""
+#access characters
+
+str = "apna college"
+ch = str[1]
+print(ch)
+
