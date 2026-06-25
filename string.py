@@ -33,4 +33,12 @@ len(str)"""
 str = "apna college"
 ch = str[1]
 print(ch)
+#output 
+#p
+"""we also print(str[3])"""
+
+
+
+
+
 

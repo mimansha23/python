@@ -42,3 +42,9 @@ b=int(input("enter second number: "))
 
 print( a >=  b )
 print( a<=b )"""
+
+
+a=23
+b=25
+print(a
+)
