@@ -43,4 +43,12 @@ b=int(input("enter second number: "))
 print( a >=  b )
 print( a<=b )"""
 
+#another type of question 
+"""x = 'awesome'
+def myfunc():
+  x = 'fantastic'
+myfunc()
+print('Python is ' + x)"""
+# its print python is awesome
+
 
