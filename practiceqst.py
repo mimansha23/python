@@ -50,5 +50,10 @@ def myfunc():
 myfunc()
 print('Python is ' + x)"""
 # its print python is awesome
+#Global variable : X = 'AWESOME' is created outside the function
+# Local variable : X = 'fantastic' inside the function is local and does not affect the global x
+#Print statement : the final print() looks at the global  x because it is outside the function .
+# we use the global keyword
+
 
 
