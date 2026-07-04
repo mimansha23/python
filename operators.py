@@ -39,3 +39,4 @@ print("num : ", num)
 print(not True)
 print(123455)
 print (not False)
+
