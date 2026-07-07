@@ -12,7 +12,12 @@
 # if we print only write
 str = "mimansha pgjhgvt6ydfuytf"
 print(str[5:])#[5:4] 
+
+
 #bcoz its know what the user wants to tell
+
+
+
 """negative index"""
  #we backward counting the str
 " -1 -2 -3 so on "
