@@ -7,4 +7,4 @@
 # str[1:] is same as str[1:len(str)]
 
 str ="mimansha pandey"
-print(str[:4])
+print(str[5: len(str)])
