@@ -4,3 +4,9 @@ print(str.endswith("app"))
 """False"""
 # str.endswith("er.")
 "returns true if string ends with substr"
+
+
+
+"""str.capitalize()"""
+# capitalizes 1st char
+
