@@ -1,5 +1,5 @@
-str="I am studying python from apna college"
-print(str.endswith("app"))
+#str="I am studying python from apna college"
+#print(str.endswith("app"))
 #output
 """False"""
 # str.endswith("er.")
@@ -12,7 +12,13 @@ print(str.endswith("app"))
 
 """str.replace(ols,new)"""
 str =" i am studying python from apna college"
-print(str.replace("o","a"))
+#print(str.replace("o","a"))
 # its used to replace the word or letter 
 #like its print the value with change in the o wherever a is.
 #output is = i am studying pythan fram apna callege
+
+
+"""str.find(word) """
+#returns 1st index of 1st occurrer 
+str="i am studying python from apna college"
+print(str.find("o"))
