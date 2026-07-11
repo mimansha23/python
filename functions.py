@@ -22,3 +22,7 @@ str =" i am studying python from apna college"
 #returns 1st index of 1st occurrer 
 str="i am studying python from apna college"
 print(str.find("o"))
+#if it has no words like that then it prints -1
+
+
+print(str.count("o"))
