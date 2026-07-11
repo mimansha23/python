@@ -26,3 +26,7 @@ print(str.find("o"))
 
 
 print(str.count("o"))
+#to print or count words or sentences
+
+
+"""like that we  use many strings """
