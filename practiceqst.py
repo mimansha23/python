@@ -57,3 +57,8 @@ print('Python is ' + x)"""
 
 
 
+#lets practice
+"""WAP to input user's first name & prinnt its length"""
+
+str="mimansha pandey"
+print(str[0:len(str)])
