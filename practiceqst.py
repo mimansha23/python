@@ -59,6 +59,6 @@ print('Python is ' + x)"""
 
 #lets practice
 """WAP to input user's first name & prinnt its length"""
+name =input ("enter your name: ")
+print("length of your name is", len(name))
 
-str="mimansha pandey"
-print(str[0:len(str)])
