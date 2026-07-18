@@ -62,3 +62,6 @@ print('Python is ' + x)"""
 name =input ("enter your name: ")
 print("length of your name is", len(name))
 
+"""Wap to find the occurrence of $ in a string.SyntaxWarning"""
+str="hi, $iam the $symbol $hfkwejfh"
+print(str.count("$"))
