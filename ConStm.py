@@ -13,7 +13,7 @@ if(age >= 18):
 
 #else if 
 
-"""Light ="greeen"
+Light ="pink"
     
 if(Light == "red"):
    print("stop")
@@ -21,15 +21,19 @@ elif(Light == "yellow"):
    print("wait")
 elif(Light == "green"):
    print("go")
-
-print("end of code")"""
+else:
+   print("light is broken")
+print("end of code")
 
 
 
 """else if else"""
 num = 5
 
-if(num > 2):
+"""if(num > 2):
     print("greater than 2")
 elif(num > 3):
     print("greater than 3")
+else(num > 4):
+    print("greater than 4")"""
+
