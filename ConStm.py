@@ -12,12 +12,14 @@ if(age >= 18):
      print("candrive")"""
 
 #else if 
-light ="greeen"
+
+Light ="greeen"
     
-if(light == "red"):
+if(Light == "red"):
    print("stop")
-elif(light == "yellow"):
+elif(Light == "yellow"):
    print("wait")
-elif(light == "green"):
+elif(Light == "green"):
    print("go")
 
+print("end of code")
